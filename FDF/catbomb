@@ -1,4 +1,0 @@
-curl http://getwallpapers.com/wallpaper/full/b/5/9/529344.jpg > image.png
-while true; do
-    open image.png
-done
