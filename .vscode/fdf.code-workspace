@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "/nfs/2018/s/saolivei/042Projects/FdF"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"mlx.h": "c"
+		}
+	}
+}
